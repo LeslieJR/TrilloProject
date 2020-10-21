@@ -36,9 +36,11 @@ Grey dark 3: #999
     --line: 1px solid var(--grey-light-2);
 }
 
-$bp-largest: 75rem; // 1200/16=75rem
-$bp-large: 68.75rem; // 1100/16=68rem
-$bp-medium: 56.25rem; // 900/16=56rem
+$bp-largest: 75em; // 1200/16=75rem
+$bp-large: 68.75em; // 1100/16=68rem
+$bp-medium: 56.25em; // 900/16=56rem
+$bp-small: 37.5em; // 600/16=37.5
+$bp-smallest: 31.25em; // 500
 
 *{
     margin:0;
